@@ -1,0 +1,303 @@
+{
+    "locale": 
+    {
+        "message": "zh_TW",
+        "description": "瀏覽器內建 @@_ui_locale 變數，顯示語言的變體如 en_GB 、en_US 等，我們並不需要。"
+    },
+    "application_description": 
+    {
+        "message": "分組排序擴充程式並輕易切換。"
+    },
+    "all_extensions": 
+    {
+        "message": "所有擴充程式"
+    },
+    "highlight_ungrouped_extensions": 
+    {
+        "message": "高亮顯示未分組的擴充程式"
+    },
+    "create_new_context": 
+    {
+        "message": "建立新的 Context"
+    },
+    "edit_context": 
+    {
+        "message": "編輯 Context"
+    },
+    "name_field_is_required": 
+    {
+        "message": "必須填寫名稱。"
+    },
+    "this_name_is_already_in_use": 
+    {
+        "message": "這個名稱已被使用。"
+    },
+    "pick_an_icon": 
+    {
+        "message": "選擇一個圖示。"
+    },
+    "available_extensions": 
+    {
+        "message": "可用擴充程式"
+    },
+    "always_enabled_extensions": 
+    {
+        "message": "保持啟用擴充程式"
+    },
+    "name": 
+    {
+        "message": "名稱"
+    },
+    "options": 
+    {
+        "message": "選項"
+    },
+    "icon": 
+    {
+        "message": "圖示"
+    },
+    "context_will_be_deleted": 
+    {
+        "message": "Context 將刪除，是否確定？"
+    },
+    "additional_options": 
+    {
+        "message": "附加選項"
+    },
+    "new_context": 
+    {
+        "message": "建立 Context"
+    },
+    "save": 
+    {
+        "message": "儲存"
+    },
+    "about": 
+    {
+        "message": "關於"
+    },
+    "configuration_import_export": 
+    {
+        "message": "匯入/匯出設定"
+    },
+    "configuration_import": 
+    {
+        "message": "匯入設定"
+    },
+    "configuration_export_description": 
+    {
+        "message": "要匯出你的設定，請從下面的文字框複製經過編碼的設定字串。"
+    },
+    "configuration_import_description": 
+    {
+        "message": "貼上設定字串到下面的文字框並點擊 『匯入』 來還原你的設定。"
+    },
+    "confirm_configuration_import": 
+    {
+        "message": "匯入操作會覆蓋你目前設定，請確保執行備份以免遺失。"
+    },
+    "import": 
+    {
+        "message": "匯入"
+    },
+    "override_current_settings": 
+    {
+        "message": "覆蓋目前設定？"
+    },
+    "import_failed": 
+    {
+        "message": "匯入失敗"
+    },
+    "configuration_string_is_invalid": 
+    {
+        "message": "抱歉，所提供的設定字串無效。匯入失敗！"
+    },
+    "successful_import": 
+    {
+        "message": "匯入成功"
+    },
+    "configuration_was_imported_successfuly": 
+    {
+        "message": "設定已成功的匯入。"
+    },
+    "some_extensions_were_ignored": 
+    {
+        "message": "您所匯入設定中的一些擴充程式由於還沒有安裝而已忽略："
+    },
+    "override_server_settings": 
+    {
+        "message": "覆蓋伺服器上的設定嗎？"
+    },
+    "confirm_chrome_sync_configuration_export": 
+    {
+        "message": "This will override your current configuration kept in Chrome Sync. Do you want to proceed?"
+    },
+    "manual": 
+    {
+        "message": "手動"
+    },
+    "chrome_sync": 
+    {
+        "message": "Chrome 同步"
+    },
+    "save_on_server": 
+    {
+        "message": "儲存於伺服器上"
+    },
+    "load_from_server": 
+    {
+        "message": "從伺服器上載入"
+    },
+    "saved": 
+    {
+        "message": "已儲存"
+    },
+    "enable_apps_support": 
+    {
+        "message": "啟用應用支援（預設僅僅支援擴充程式）"
+    },
+    "show_all_extensions_button": 
+    {
+        "message": "彈跳選單顯示『所有擴充程式』"
+    },
+    "delay_after_enabling_extension": 
+    {
+        "message": "啟用每個擴充程式後，等待的毫秒數"
+    },
+    "context_options": 
+    {
+        "message": "Context - 選項"
+    },
+    "remove_context": 
+    {
+        "message": "刪除 Context 嗎？"
+    },
+    "cancel": 
+    {
+        "message": "取消"
+    },
+    "edit": 
+    {
+        "message": "編輯"
+    },
+    "create": 
+    {
+        "message": "新建"
+    },
+    "delete": 
+    {
+        "message": "刪除"
+    },
+    "clone": 
+    {
+        "message": "複製"
+    },
+    "move": 
+    {
+        "message": "移動"
+    },
+    "extension_is_loading": 
+    {
+        "message": "正在載入擴充程式。。。"
+    },
+    "new_extension_installed_action": 
+    {
+        "message": "安裝新的擴充程式後"
+    },
+    "ask_what_to_do": 
+    {
+        "message": "詢問如何處理"
+    },
+    "add_to_all_contexts": 
+    {
+        "message": "加入到所有的 Context"
+    },
+    "add_to_always_enabled": 
+    {
+        "message": "加入到 '永遠啟用'"
+    },
+    "do_nothing": 
+    {
+        "message": "什麼都不做"
+    },
+    "extension_installed_1": 
+    {
+        "message": "新的擴充程式"
+    },
+    "extension_installed_2": 
+    {
+        "message": "已安裝"
+    },
+    "add_to_contexts": 
+    {
+        "message": "加入到下面的 Context"
+    },
+    "or_add_it_to": 
+    {
+        "message": "或加入到"
+    },
+    "font": 
+    {
+        "message": "字型"
+    },
+    "icons": 
+    {
+        "message": "圖示"
+    },
+    "icon_flip_animation": 
+    {
+        "message": "圖示翻轉動畫效果"
+    },
+    "programmer": 
+    {
+        "message": "開發員"
+    },
+    "source_code": 
+    {
+        "message": "程式碼"
+    },
+    "translations": 
+    {
+        "message": "翻譯"
+    },
+    "welcome": 
+    {
+        "message": "歡迎"
+    },
+    "welcome_step_1": 
+    {
+        "message": "歡迎！開始使用這個擴充程式前，請先建立 Context （擴充程式組），並為每個 Context 選擇一個名字與圖示。"
+    },
+    "welcome_step_2": 
+    {
+        "message": "分組擴充程式，請從頂部按字母順序排序的列表中拖曳擴充程式到對應的 Context 框中。"
+    },
+    "welcome_step_3": 
+    {
+        "message": "從 「可用擴充程式」 移動那些每個 Context 都應啟用的擴充程式到 「保持啟用擴充程式」。"
+    },
+    "welcome_step_4": 
+    {
+        "message": "儲存設定即可！你可以使用工具欄上的圖示輕易地在 Contexts 間進行切換。透過選擇選單上的 Context 名稱或者圖示來切換到相應的 Context。點擊 + 或 - 號按鈕啟動或者關閉對應的 Context，這樣允許你混合使用各個不同的 Contexts。"
+    },
+    "next": 
+    {
+        "message": "下一個"
+    },
+    "previous": 
+    {
+        "message": "前一個"
+    },
+    "close": 
+    {
+        "message": "關閉"
+    },
+    "show_extension_icon": 
+    {
+        "message": "於第一個擴充程式彈跳視窗內使用圖示。"
+    },
+    "open_notification": 
+    {
+        "message": "點擊此處來決定哪個 contexts 是你要加入的。"
+    }
+}
